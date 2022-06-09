@@ -1,0 +1,1 @@
+import{i as e}from"./index.a1219e87.js";const s=()=>e({url:"/api/namespaceConfig",method:"get"}),t=a=>e({url:`/api/namespaceConfig/${a}`,method:"get"}),n=a=>e({url:"/api/namespaceConfig",method:"post",data:a}),p=a=>e({url:"/api/namespaceConfig",method:"put",data:a});export{n as a,s as b,t as g,p as u};

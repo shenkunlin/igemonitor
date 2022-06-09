@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.itheima.ige.rpc.client.proxy.ProxyRegister ,\
+  com.itheima.ige.rpc.client.proxy.BeanRegister
